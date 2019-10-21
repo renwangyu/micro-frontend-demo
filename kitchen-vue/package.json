@@ -1,7 +1,7 @@
 {
-  "name": "ez-vue-staging",
+  "name": "kitchen-vue",
   "version": "1.0.0",
-  "description": "基于webpack，ts和vue的脚手架",
+  "description": "kitchen业务整合",
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",

@@ -1,7 +1,7 @@
 {
   "name": "food-vue",
   "version": "1.0.0",
-  "description": "food",
+  "description": "food业务",
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",
