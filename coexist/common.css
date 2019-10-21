@@ -1,0 +1,36 @@
+/* kitchen */
+.page-home .head-nav-bar {
+  background-color: lightskyblue;
+  color: white;
+  display: flex;
+  height: 60px;
+  align-items: center;
+}
+
+.page-home .head-nav-bar .name {
+  width: 100px;
+      border-right: 1px solid white;
+}
+
+.page-home .head-nav-bar .menu {
+  flex: 1;
+  padding: 0 50px;
+  text-align: left;
+}
+
+.page-home .head-nav-bar .menu>* {
+  margin-right: 50px;
+}
+
+.page-home .head-nav-bar .login-info {
+  width: 150px;
+  display: flex;
+  align-items: center;
+}
+
+.page-home .head-nav-bar .login-info>img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 10px;
+}

@@ -1,0 +1,6 @@
+.page-cola img {
+  display: block;
+  width: 850px;
+  height: 450px;
+  object-fit: contain;
+}

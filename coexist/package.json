@@ -1,0 +1,9 @@
+{
+  "name": "coexist",
+  "scripts": {
+    "start": "serve -s -l 8000"
+  },
+  "devDependencies": {
+    "serve": "^11.1.0"
+  }
+}

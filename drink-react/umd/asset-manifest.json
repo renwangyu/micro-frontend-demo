@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/drink.umd.js",
+    "main.js.map": "/drink.umd.js.map",
+    "index.html": "/index.html",
+    "static/media/cola.png": "/static/media/cola.7f31e55f.png",
+    "static/media/wine.png": "/static/media/wine.8b97da8a.png"
+  },
+  "entrypoints": [
+    "drink.umd.js"
+  ]
+}
