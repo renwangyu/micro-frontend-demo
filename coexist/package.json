@@ -1,5 +1,5 @@
 {
-  "name": "coexist微服务整合",
+  "name": "coexist",
   "scripts": {
     "start": "serve -s -l 8000"
   },
